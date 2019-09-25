@@ -5,5 +5,5 @@
  
  Check Out The Deployed Version [Here](https://react-coin-site.netlify.com/)
  
- :copyright: 2019
  
+***
