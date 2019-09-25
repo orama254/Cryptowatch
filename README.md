@@ -3,3 +3,7 @@
 # Cryptowatch
  This is a Cryptocurrency react application that tracks the major Cryptos on the internet 
  
+ Check Out The Deployed Version [Here](https://react-coin-site.netlify.com/)
+ 
+ :copyright: 2019
+ 
